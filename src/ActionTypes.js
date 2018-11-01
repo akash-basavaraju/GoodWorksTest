@@ -1,0 +1,2 @@
+export const UPDATE_ANSWER = "UPDATE_ANSWER";
+export const DROP_SELECTED = "DROP_SELECTED";
